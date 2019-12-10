@@ -1,8 +1,8 @@
 ﻿# Java Depo Otomasyonu Uygulaması
-# Java Warehouse Automation Application
+###### Java Warehouse Automation Application
 
 Java programlama dili ile yazılmış gelişmiş depo ve satış sistemi.
-Advanced warehouse and sales system written in Java programming language.
+###### Advanced warehouse and sales system written in Java programming language.
 
 
 # Kurulum
@@ -11,12 +11,10 @@ Bu dosyaları bir java derleyicisinde açıp build ettikten sonra database klas�
 
 # Giriş Bilgileri
 
-Yönetici Girişi:
-  Kullanıcı Adı: yönetici
-  Şifre        : demo
+**Yönetici Girişi:**
+  Kullanıcı Adı : yönetici
+  Şifre             : demo
 
-Personel Girişi:
+**Personel Girişi:**
   Kullanıcı Adı: personel
   Şifre        : demo
-
-
