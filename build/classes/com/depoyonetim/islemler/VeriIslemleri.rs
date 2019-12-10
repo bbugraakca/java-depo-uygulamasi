@@ -1,0 +1,1 @@
+com.depolamayonetim.islemler.VeriIslemleri
