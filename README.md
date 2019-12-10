@@ -19,8 +19,8 @@ Bu dosyaları bir java derleyicisinde açıp build ettikten sonra database klas�
   <br>Kullanıcı Adı: personel
   <br>Şifre        : demo
 
-#EN
-#Java Warehose Automation Application
+# EN
+# Java Warehose Automation Application
 
 Advanced warehouse and sales system written in Java programming language.
 
