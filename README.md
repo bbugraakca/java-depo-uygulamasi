@@ -1,4 +1,4 @@
-﻿#TR
+﻿# TR
 # Java Depo Otomasyonu Uygulaması
 
 Java programlama dili ile yazılmış gelişmiş depo ve satış sistemi.
