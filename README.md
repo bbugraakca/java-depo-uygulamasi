@@ -27,7 +27,7 @@ Bu dosyaları bir java derleyicisinde açıp build ettikten sonra database klas�
 Advanced warehouse and sales system written in Java programming language.
 
 ### Setup
-You can run this file by a java compiler, open the folder with the extension .sql in the database by seamlessly import the file after you build MySQL system. Database name must "storage" should you experience problems if you type a different name.
+You can run this file by a java compiler, open the folder with the extension .sql in the database by seamlessly import the file after you build MySQL system. Database name must "depolama" should you experience problems if you type a different name.
 
 ### Login İnformation
 
