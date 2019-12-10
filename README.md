@@ -1,15 +1,16 @@
-﻿# TR
-# Java Depo Otomasyonu Uygulaması
+﻿
+# TR
+## Java Depo Otomasyonu Uygulaması
 
 Java programlama dili ile yazılmış gelişmiş depo ve satış sistemi.
 
 
 
-## Kurulum
+### Kurulum
 
 Bu dosyaları bir java derleyicisinde açıp build ettikten sonra database klasörü içerisindeki .sql uzantılı dosyayı MySql sistemine import ederek sorunsuz çalıştırabilirsiniz. Database adı mutlaka "depolama" olmalı başka bir ad yazarsanız sorun yaşarsınız.
 
-## Giriş Bilgileri
+### Giriş Bilgileri
 
 **Yönetici Girişi:**
   <br>Kullanıcı Adı : yönetici
@@ -19,15 +20,16 @@ Bu dosyaları bir java derleyicisinde açıp build ettikten sonra database klas�
   <br>Kullanıcı Adı: personel
   <br>Şifre        : demo
 
+
 # EN
-# Java Warehose Automation Application
+## Java Warehose Automation Application
 
 Advanced warehouse and sales system written in Java programming language.
 
-## Setup
+### Setup
 You can run this file by a java compiler, open the folder with the extension .sql in the database by seamlessly import the file after you build MySQL system. Database name must "storage" should you experience problems if you type a different name.
 
-## Login İnformation
+### Login İnformation
 
 **Admin Login:**
  <br>Username : yönetici
